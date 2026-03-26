@@ -1,22 +1,13 @@
 # 
 
-# UNDER CONSTRUCTION
+# A Through-minded Developer
 
+> 빈틈없는 설계를 고민하는 개발자.
 
+### :rocket: 기술 스택
 
-> Find your dreams come true, and I wonder if you know what it means. What it means...
-
-
-
-
-
-### :rocket: Tech stacks
-
-- **Backend** : Java, spring boot, jpa, mybatis, postgresql
-
-
-
-
+- **백엔드** : `Java`, `Springboot`, `RDBMS`, `NoSql`
+- 프론트엔드 : `Javascript`, `Vuejs`
 
 ### 📊Github status
 
