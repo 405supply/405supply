@@ -13,7 +13,7 @@
 *   **아키텍처 패턴:** 관심사 분리, 유지보수성 및 확장성을 촉진하는 클린 레이어드 아키텍처(Controller, Service, Repository, Domain)를 따르며, 효율적인 데이터 전송을 위해 DTO(Data Transfer Objects) 및 Projection을 사용합니다.
 *   **비즈니스 로직 및 데이터 내보내기:** 복잡한 워크플로우 관리를 위한 Spring State Machine과 유연한 데이터 내보내기 기능을 위한 OpenCSV를 통합합니다.
 
-### 위치(Location) 모듈에 집중 - 주요 기술 요점:
+### 주요 기술 요점:
 
 `location` 모듈은 고급 지리 데이터 처리 및 통합을 보여주는 핵심 구성 요소입니다.
 
