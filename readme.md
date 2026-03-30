@@ -62,6 +62,8 @@
 - 세계에서 가장 규모가 큰 예측 시장인 Polymarket 클론 코딩 (개인 프로젝트)
 - 현재 개발 초기 진행중
 
-
+## Problem solving stats
+[![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=405supply)](https://solved.ac/405supply)<br>
+[![Codeforces Rating](https://img.shields.io/badge/Codeforces-Rating-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/405supply)
 
 
