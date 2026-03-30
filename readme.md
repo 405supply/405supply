@@ -49,15 +49,18 @@
 
 ## 🚩 주요 프로젝트
 ### Golden Harvest
-[🔍 프로젝트 상세 고민 과정 보기](./golden_harvest.md)
+- 효율적인 농수산물 관리를 위한 B2B SCM/OMS 솔루션<br>
+> [!IMPORTANT]
+> ### <a href="./golden_harvest.md" style="text-decoration: none; color: #2D3436;">프로젝트 상세 기술적 성과 보기</a>
 
 ### Marine Log
-[🔍 프로젝트 상세 고민 과정 보기](./marine_log.md)
+- 해양 환경 정화 활동을 위한 통합 ICT 플랫폼<br>
+> [!IMPORTANT]
+> ### <a href="./marine_log.md" style="text-decoration: none; color: #2D3436;">프로젝트 상세 기술적 성과 보기</a>
 
-## 📊 Github status
-
-![Jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=405supply&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=405supply&layout=compact&theme=tokyonight)
+### clone-Polymarket
+- 세계에서 가장 규모가 큰 예측 시장인 Polymarket 클론 코딩 (개인 프로젝트)
+- 현재 개발 초기 진행중
 
 
 
