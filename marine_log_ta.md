@@ -142,3 +142,10 @@ spring, springboot, spring security with jwt&social login, jpa, postgresql, post
 성능 수치에 대한 pdf 있음. 향후 추가 
 
 히트맵 정규화 로직은 sql로 구현이 되어있음. 아마 단순 평균을 이용한 정규화
+
+PA + PostGIS 통합
+JPA 환경에서 PostGIS를 사용하기 위한 세 가지 문제를 해결했습니다.
+
+타입 매핑: JPA 기본 타입으로 PostGIS의 Geometry 타입 처리가 불가하여, 엔티티 내 @Column(columnDefinition = "geometry(Point, 4326)") 설정과 Hibernate Spatial 라이브러리를 활용해 매핑 문제를 해결했습니다.
+Native Query: ST_SnapToGrid, ST_MakeEnvelope 등 PostGIS 전용 함수는 JPQL에서 지원되지 않아 Native Query로 구현했습니다.
+테스트 환경: H2가 Geometry 타입을 지원하지 않아 테스트 실행이 불가한 문제를 H2GIS 라이브러리 도입으로 해결, H2 환경에서도 PostGIS 공간 함수가 정상 동작하는 테스트 환경을 구축했습니다.
