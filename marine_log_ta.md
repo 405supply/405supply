@@ -129,3 +129,16 @@ geocoding 과정이 외부 api를 이용하여 게시글 저장에 지연이 있
 팀 프로젝트에 있어서 지켜야 하는건 마음속으로는 알지만 사실 지키기 상당히 쉽지않은 부분인것 같다. 띄어쓰기를 더 한다던가 변수 이름을 조금 다른 방식으로 선언한다고 앱에서 오류가 나는게 아니므로. 
 
 그럼에도 일관된 코딩 컨벤션은 필수적이라고 느낀 계기 -> 필연적으로 다른 사람이 작성한 코드를 내가 읽어야 할 일이 생기고, vice versa. 그러므로 상세한 설명이 달린 주석쓰기도 매우 중요하다
+
+
+### In addition
+사용한 주요 기술 스택
+spring, springboot, spring security with jwt&social login, jpa, postgresql, postgis, redis, javascript, vuejs
+
+팀 구성
+4명의 팀
+팀장 (AI,ML) 팀원 (FE, PM) 팀원 (BE, FE) 본인(BE)
+
+성능 수치에 대한 pdf 있음. 향후 추가 
+
+히트맵 정규화 로직은 sql로 구현이 되어있음. 아마 단순 평균을 이용한 정규화
