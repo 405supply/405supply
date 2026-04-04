@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td align="center" width="200">
-      <img src="https://github.com/<tbu>.png" width="150" style="border-radius: 50%;" /><br>
+      <img src="https://github.com/405supply.png" width="150" style="border-radius: 50%;" /><br>
     </td>
     <td>
       <p><b>🎓 Education: </b>인하대학교 컴퓨터공학과 학사 졸업</p>
