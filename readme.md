@@ -47,21 +47,6 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
 
-## 🚩 주요 프로젝트
-### Golden Harvest
-- 효율적인 농수산물 관리를 위한 B2B SCM/OMS 솔루션<br>
-> [!IMPORTANT]
-> ### <a href="./golden_harvest.md" style="text-decoration: none; color: #2D3436;">프로젝트 상세 기술적 성과 보기</a>
-
-### Marine Log
-- 해양 환경 정화 활동을 위한 통합 ICT 플랫폼<br>
-> [!IMPORTANT]
-> ### <a href="./marine_log.md" style="text-decoration: none; color: #2D3436;">프로젝트 상세 기술적 성과 보기</a>
-
-### clone-Polymarket
-- 세계에서 가장 규모가 큰 예측 시장인 Polymarket 클론 코딩 (개인 프로젝트)
-- 현재 개발 초기 진행중
-
 ## Problem solving stats
 [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=405supply)](https://solved.ac/405supply)<br>
 [![Codeforces Rating](https://img.shields.io/badge/Codeforces-Rating-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/405supply)
